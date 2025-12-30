@@ -1,0 +1,14 @@
+# Cartelle di compilazione di CodeBlocks
+bin/
+obj/
+
+# File di configurazione utente di CodeBlocks
+*.layout
+*.depend
+
+# Eseguibili Windows e file oggetto
+*.exe
+*.o
+
+# File temporanei di Matlab
+*.asv
