@@ -11,3 +11,8 @@ Il software include l'implementazione in C++ dei seguenti metodi di ordine $p=4$
 e l'implementazione del seguente metodo di ordine $p=6$:
 * **Gauss 3**: Metodo implicito isometrico.
 
+
+---
+
+# Relazione
+Il problema trattato e l'analisi dei risultati ottenuti sono analizzati nella [relazione](Relazione.pdf).
